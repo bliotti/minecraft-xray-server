@@ -1,0 +1,9 @@
+# Copy into server/server.properties after setup, then adjust as needed.
+server-ip=
+server-port=25565
+online-mode=true
+motd=Temporary XRay test server
+max-players=8
+view-distance=8
+simulation-distance=6
+spawn-protection=0
